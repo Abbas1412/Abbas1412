@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Zamin Abbas, a Python Developer with a strong focus on backend development, API integration, and machine learning. I enjoy building scalable applications, optimizing performance, and solving complex problems through clean and efficient code. My expertise includes working with FastAPI, Flask, and Django, along with database management and cloud services.
+Hi, I’m Zamin Abbas, a Python Developer with a strong focus on backend development, API integration, and machine learning. I enjoy building scalable applications, optimizing performance, and solving complex problems through clean and efficient code. My expertise includes working with Python, FastAPI, Flask, and Django, along with database management and cloud services.
 
 
 ## 🌐 Socials:
